@@ -1,0 +1,51 @@
+<html>
+	<link rel="stylesheet" type="text/css" href="Stile.css">
+	<meta charset="UTF-8">
+	<head><title>La scheda Madre: </title></head>
+		<body>
+			
+			<h2 align="left">LA SCHEDA MADRE: </h2>
+			<p></p>
+			<p align="center"></p>
+			<image src="mobo1.jpg" align="right">	
+			La scheda madre o scheda di sistema, anche conosciuta con i termini inglesi motherboard ("scheda madre") o mainboard ("scheda principale"), abbreviata MB, M/B, mobo, è una parte fondamentale di un moderno personal computer: sotto forma di scheda elettronica principale raccoglie in sé tutta la circuiteria elettronica e i collegamenti di interfaccia tra i vari componenti interni principali del PC (CPU, memoria e le altre schede elettroniche montate o alloggiate sopra) comprendendo quindi anche i bus di espansione e le interfacce verso le periferiche esterne.
+
+
+E' responsabile dunque della trasmissione e temporizzazione corretta di molte centinaia di segnali diversi, tutti ad alta frequenza e sensibili ai disturbi, tra processore e periferiche interne e viceversa. La sua buona realizzazione è quindi un fattore chiave per le prestazioni e l'affidabilità dell'intero computer.
+		
+		
+		
+	
+	<p>
+    PC/XT - Il formato originale creato da IBM per il suo primo personal computer, l'IBM-PC. È stato adottato dalle schede madri di un gran numero di cloni, poiché non era coperto da copyright, e divenne per questo uno standard de facto.
+    AT (Advanced Technology) - Anche questo secondo formato divenne molto popolare, soprattutto per le schede madri 386. Ora è obsoleto, ma è stato la base per lo sviluppo dell'ATX.
+	</p><p>
+    Baby AT - Il successore IBM del formato AT. Funzionalmente del tutto equivalente, era però molto più piccolo e guadagnò seguito rapidamente; le schede madri che lo adottavano non avevano interfaccia AGP
+	<p>
+	<b>Link ai documenti tecnici sui vari tipi di Form Factor(In Inglese):</b>
+	</p><p>
+    <a href ="http://www.elma.it/TESTO/atx.htm">ATX</a> - nato a partire dal Baby AT, è a tutt'oggi il formato di scheda madre più comune in commercio.
+        </p><p>   
+    <a href ="http://www.etx-ig.org/specs/specs.php">ETX</a> usato nei sistemi embedded e nei computer monoscheda.
+	</p><p>
+    <a href ="http://www.formfactors.org/developer%5Cspecs%5Cmini_itx_spec_v1_1.pdf">Mini-ATX</a> Quasi identico all'ATX, ma leggermente più piccolo.
+	</p><p>
+    <a href ="http://www.formfactors.org/developer%5Cspecs%5Cmatxspe1.2.pdf">MicroATX</a> Un ATX ridotto, con tre soli slot di espansione PCI o PCI express.
+	</p><p>
+    <a href ="http://www.formfactors.org/developer%5Cspecs%5CFlexATXaddn1_0.pdf">FlexATX</a> Una variante di microATX che permette maggior flessibilità nel progetto della scheda madre e nel posizionamento dei componenti.
+	</p><p>
+    <a href ="http://www.formfactors.org/developer%5Cspecs%5CMini_ITX_Spec_V2_0.pdf">Mini-ITX</a> Un formato di scheda madre molto piccolo ad alta integrazione, introdotto da VIA e pensato per thin client, chioschi elettronici e set-top box.
+	</p><p>
+    <a href ="http://www.via.com.tw/en/downloads/whitepapers/initiatives/spearhead/pico-itx_form_factor.pdf">Pico-ITX</a> - Formato di scheda madre molto piccolo ad alta integrazione, introdotto da VIA nel 2007 e pensato per thin client, chioschi elettronici e set-top box. Utilizza processori Via C7 o Eden. Le dimensioni sono di 10x7,2cm di lato.
+	</p><p>
+    <a href="http://www.casereview.org/wtx/WTX-Spec-11.pdf">WTX</a> (Workstation Technology Extended) - un formato grande, molto più dell'ATX, ideato per schede madri di server e workstation multiprocessori di fascia alta.
+	</p><p>
+<a href="http://it.wikipedia.org/wiki/Scheda_madre"><font color="red">Link a wikipedia sulle schede madri</font></a>
+	</p><p>
+<a href="form.png"><font color="green">Dimensioni standard delle Motherboard</font></a>
+	</p><p>
+<a href="atx.html"><font color="red">Vedi immagini Motherboard ATX</font></a>
+	</p>
+		
+		</body>
+</htlm>

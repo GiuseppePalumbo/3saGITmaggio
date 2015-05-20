@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+h2{
+    color: navy;
+    margin-left: 20px;
+}
+p {
+    background-color: lightblue;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+a:hover {
+    background-color: yellow;
+} 
